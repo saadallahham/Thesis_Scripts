@@ -1,6 +1,7 @@
 # Thesis_Scripts
 All codes used for my thesis
-I authorize the reuse of the code in a similar study or as needed
+
+# I authorize the reuse of the code in a similar study or as needed
 
 
 # Python
