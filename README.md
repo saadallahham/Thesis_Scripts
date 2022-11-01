@@ -1,54 +1,54 @@
 # Thesis_Scripts
 All the codes they used for my thesis
 
-Python
+# Python
 
 
 loading well data
 
-# Loading python libraries
+ Loading python libraries
 
-# Loading well data
+ Loading well data
 
-# Select Columns
+ Select Columns
 
-# Concatenate well data to get a single dataframe
+ Concatenate well data to get a single dataframe
 
-# Preparing well log data
+ Preparing well log data
 
-# Save final results in CSV file
+ Save final results in CSV file
 
 
 Plotting
 
-# Loading python libraries
+ Loading python libraries
 
-# loading well data
+ loading well data
 
-# Plot paired relationships from a dataset.
+ Plot paired relationships from a dataset.
 
-# Correlation_mat
+ Correlation_mat
 
-# Dataframe static analysis
+ Dataframe static analysis
 
 
 
 Analyze_Dataframe
 
-# Loading python libraries
+ Loading python libraries
 
-# loading well data
+ loading well data
 
-# Plot the facies count
+ Plot the facies count
 
-# Bar plots with number of occurrences for all wells
+ Bar plots with number of occurrences for all wells
 
-# Bar plots with number of occurrences for each class in each well
+ Bar plots with number of occurrences for each class in each well
 
-# Ternary plot of permeability, porosity and facies
+ Ternary plot of permeability, porosity and facies
 
 
-MATLAB
+# MATLAB
 
 
 1- Add_logs
