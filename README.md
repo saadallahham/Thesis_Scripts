@@ -62,28 +62,50 @@ Analyze_Dataframe
 
 • CGSVM
 
-• BOOSTEDTREES/
+• BOOSTEDTREES
+
 • WEIGHTEDKNN
+
 • Lineardiscrement
+
 • KernelNaiveBayes
+
 • GaussianNaiveBayes
+
 • CUBICSVM
+
 • FGSVM
+
 • CUBICKNN
+
 • COSINEKNN
+
 • COARSEKNN
+
 • Coarsetree
+
 • BAGGEDTREES
+
 • linearSVM
+
 • mediumtree
+
 • MGSVM
+
 • Quadraticdiscriminant
+
 • QUADRATICSVM
+
 • RUSBOOSTEDTREES
+
 • SUBSPACEDISCRIMINANT
+
 • SUBSPACEKNN
+
 • MEDIUMKNN
+
 • FINEKNN
+
 • Finetree
 
 4- Predict_Results
