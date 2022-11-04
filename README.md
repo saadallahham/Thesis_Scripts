@@ -61,7 +61,8 @@ Analyze_Dataframe
 3- ML models:
 
 • CGSVM
-• BOOSTEDTREES
+
+• BOOSTEDTREES/
 • WEIGHTEDKNN
 • Lineardiscrement
 • KernelNaiveBayes
