@@ -42,7 +42,6 @@ trainedModel.predictFcn = @(x) gpPredictFcn(predictorExtractionFcn(x));
 % Add additional fields to the result struct
 trainedModel.RequiredVariables = {'DENSITY', 'NEUTRON', 'RESISTIVITY_log', 'SONICO'};
 trainedModel.RegressionGP = regressionGP;
-trainedModel.About = 'This struct is a trained model exported from Regression Learner R2019a.';
 trainedModel.HowToPredict = sprintf('To make predictions on a new table, T, use: \n  yfit = c.predictFcn(T) \nreplacing ''c'' with the name of the variable that is this struct, e.g. ''trainedModel''. \n \nThe table, T, must contain the variables returned by: \n  c.RequiredVariables \nVariable formats (e.g. matrix/vector, datatype) must match the original training data. \nAdditional variables are ignored. \n \nFor more information, see <a href="matlab:helpview(fullfile(docroot, ''stats'', ''stats.map''), ''appregression_exportmodeltoworkspace'')">How to predict using an exported model</a>.');
 
 % Extract predictors and response
