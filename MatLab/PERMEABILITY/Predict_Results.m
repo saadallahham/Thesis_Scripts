@@ -1,4 +1,3 @@
-
 %%% this process to predict new data from the trained ML models %%%
 % w_x represents the new well that will predict new results %
 % change x number to same loaded well number %
